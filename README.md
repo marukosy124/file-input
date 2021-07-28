@@ -1,4 +1,4 @@
-## Abstract
+# About
 
 A file input component that allows drag-n-drop and select to upload directory or individual files.
 
@@ -6,7 +6,7 @@ Bootstrapped with Create Snowpack App (CSA).
 
 Implemented using React, Material UI and React Window.
 
-## Demo
+# Demo
 <img src="https://github.com/marukosy124/file-input/blob/master/fileinput_demo.gif">
 
 - [x] drag-n-drop or select to upload directory or file
@@ -17,7 +17,7 @@ Implemented using React, Material UI and React Window.
 - [x] show or hide the accordion
 - [x] use virtual table to optimize the performance when there is a large amount of files uploaded
 
-## Setup
+# Setup
 
 ### `yarn install`
 Install the dependencies.
