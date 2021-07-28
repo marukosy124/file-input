@@ -19,6 +19,9 @@ Implemented using React, Material UI and React Window.
 
 ## Setup
 
+### `yarn install`
+Install the dependencies.
+
 ### `yarn start`
 Runs the app in the development mode.
 Open http://localhost:8080 to view it in the browser.
